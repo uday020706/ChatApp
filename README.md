@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat Application
 
 A real-time 1-to-1 chat app with WhatsApp-style UI, audio/video calling, and message delivery/seen status.
@@ -77,3 +78,6 @@ frontend/public/ringtone.mp3
 ---
 
 If you'd like, I can also add screenshots, badges, or a short demo GIF.
+=======
+# ChatApp
+>>>>>>> b49d93b32fb3625e72e8580d87d2d2ae36273d48
