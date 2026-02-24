@@ -23,7 +23,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "http://chat-app-lemon-zeta.vercel.app",
+      "https://chat-app-lemon-zeta.vercel.app",
     ],
     methods: ["GET", "POST"],
     credentials: true,
@@ -67,7 +67,7 @@ const io = new Server(httpServer, {
   cors: {
     origin: [
       "http://localhost:5173",
-      "http://chat-app-lemon-zeta.vercel.app",
+      "https://chat-app-lemon-zeta.vercel.app",
     ],
     methods: ["GET", "POST"],
     credentials: true,
